@@ -1,16 +1,15 @@
 body {
-    background-image: limear-graddient(#0e09b6, #0000a3, #00009c)
-    color: #a4aaad
-    fotn-size: 35px;
-}
+    background-image: limear-graddient(#0e09b6, #0000a3, #00009c);
+    color: #a4aaad;
+    font-size: 35px;
 
 h1{
-    color:black
+    color:black;
 }
 
 h2 {
-    background-color:black
-    color black
+    background-color:black;
+    color:aliceblue;
 }
 
 img{
