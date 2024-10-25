@@ -1,0 +1,19 @@
+body {
+    background-image: limear-graddient(#0e09b6, #0000a3, #00009c)
+    color: #a4aaad
+    fotn-size: 35px;
+}
+
+h1{
+    color:black
+}
+
+h2 {
+    background-color:black
+    color black
+}
+
+img{
+    width:500px;
+    height:300px;
+}
