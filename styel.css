@@ -1,5 +1,5 @@
 body {
-    background-image: limear-graddient(#0e09b6, #0000a3, #00009c);
+    background-image: linear-gradient(#0e09b6, #0000a3, #00009c);
     color: #a4aaad;
     font-size: 35px;
 
